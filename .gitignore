@@ -1,0 +1,25 @@
+# 忽略 Python 编译缓存
+__pycache__/
+*.pyc
+
+# 忽略虚拟环境
+venv/
+.venv/
+env/
+
+# 忽略打包生成的文件 (用户应该自己打包，或者去 Release 下载)
+build/
+dist/
+*.spec
+
+# 忽略大文件和工具
+ffmpeg.exe
+*.mp4
+*.mkv
+*.avi
+*.jpg
+*.png
+
+# 忽略 IDE 配置文件
+.vscode/
+.idea/
