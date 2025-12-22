@@ -45,7 +45,9 @@
 
 ## 📸 界面预览
 
-*(建议在此处放一张你软件运行时的截图)*
+<p align="center">
+  <img src="images/screenshot.png" width="800">
+</p>
 
 ---
 
