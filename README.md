@@ -59,4 +59,4 @@
 ### 方式二：从源码运行
 1. 克隆仓库：
    ```bash
-   git clone [https://github.com/YIXIDou/AutoCut-Assistant---.git](https://github.com/YIXIDou/AutoCut-Assistant---.git)
+   git clone [https://github.com/YIXIDou/AutoCut-Ultimate.git](https://github.com/YIXIDou/AutoCut-Ultimate.git)
